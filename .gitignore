@@ -1,0 +1,7 @@
+#ignore exe
+*.exe
+
+#ignore blank
+*
+!/**/
+!*.*
